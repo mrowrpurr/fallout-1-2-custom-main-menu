@@ -2,10 +2,10 @@
 
 .png template for making your own custom Fallout 2 main menu screens
 
-![Template](Template/Fallout2_MainMenu_Template.png)
+![Template](Fallout2_MainMenu_Template.png)
 
 To use:
-- Download [`Fallout2_MainMenu_Template.png`](https://github.com/mrowrpurr/fallout-2-custom-main-menu/raw/main/Template/Fallout2_MainMenu_Template.png)
+- Download [`Fallout2_MainMenu_Template.png`](https://github.com/mrowrpurr/fallout-2-custom-main-menu/raw/main/Fallout2_MainMenu_Template.png)
 - Use an image editor to create the menu you want (`640 x 480`)
   - Make sure to use the `.png` as an overlay so the buttons will appear correctly
 - Save the image as a `.gif`
