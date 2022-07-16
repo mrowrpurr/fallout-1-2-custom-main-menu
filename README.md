@@ -1,4 +1,4 @@
-# Fallout 2 Custom Main Menu
+# Fallout Custom Main Menu Templates
 
 .png template for making your own custom Fallout 2 main menu screens
 
