@@ -22,3 +22,5 @@ To use:
 > I don't know enough about the color palette yet to give you recommendations for Gimp/Photoshop on how to optimize for these colors.
 
 > Note: Fallout et tu seems to render the full button panel over the image, so you can't really use the "panels" or colorize/alter the panel in any way. I might look for a way in the future.
+
+> Note: the HR is supposed to be 960x720, need to provide some.
