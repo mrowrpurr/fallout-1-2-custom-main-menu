@@ -13,9 +13,9 @@ To use:
 - Save the image as a `.gif`
 - Download and extract `editory.zip` ([forum post](https://www.nma-fallout.com/threads/frm-converter.220348/#post-4428264), [direct download link](http://madbrahmin.cz/download/fallout2/editors/editory.zip))
 - Open a terminal in the folder where you have your new `.gif` and run the `gif2frm.exe` that comes with `editory.zip` to convert the image to a `.frm`
-- Rename the `.frm` to `MAINMENU.frm` (Fallout 2) or `HR_MAINMENU.frm` (Fallout et tu)
+- Rename the `.frm` to `MAINMENU.frm` and also copy it as `HR_MAINMENU.frm`
 - Create a folder in your Fallout 2 directory at this path: `[path to Fallout 2]\mods\MainMenu.dat\art\intrface`
-- Place your renamed `.frm` into the directory
+- Place your `MAINMENU.frm` and `HR_MAINMENU.frm` files into the directory
 - Run the game!
 
 > Note: due to the color palette which the game uses, your image may look like crap. Play around with it.  
